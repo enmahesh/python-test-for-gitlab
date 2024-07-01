@@ -1,1 +1,1 @@
-print "Hello from first project"
+print ("Hello from first project")
